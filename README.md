@@ -1,4 +1,4 @@
-## **Executive Summary: Global Superstore Sales Dashboard**
+# **Executive Summary: Global Superstore Sales Dashboard**
 
 ### **1. Project Objective**
 
@@ -88,4 +88,8 @@ The dashboard provides an interactive and comprehensive view of business perform
 ### **Conclusion**
 
 The dashboard effectively highlights key performance trends and provides valuable insights into sales growth, profitability, and product performance. It supports strategic decision-making by identifying high-performing areas while also pointing out opportunities for improvement in discount management and product optimization.
+
+## Dashboard 
+<img width="715" height="371" alt="Dashboard of global superset" src="https://github.com/user-attachments/assets/893d40d8-6188-4c9d-a176-615d8b2da174" />
+
 
